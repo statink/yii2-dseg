@@ -11,14 +11,8 @@ namespace statink\yii2\dseg;
 
 class DsegAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@npm/dseg',
+    public $sourcePath = '@npm/dseg';
     public $css = [
         'css/dseg.css',
-    ];
-    public $publishOptions = [
-        'only' => [
-            'fonts/*',
-            'css/*',
-        ],
     ];
 }
