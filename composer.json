@@ -7,7 +7,7 @@
     "require": {
         "php": ">= 7.1.0",
         "yiisoft/yii2": "~2.0.15",
-        "npm-asset/dseg": "^0.45"
+        "npm-asset/dseg": "^0.45.1"
     },
     "config": {
         "process-timeout": 1800,

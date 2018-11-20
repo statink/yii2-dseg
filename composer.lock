@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e972d64eb744d90b8cf8dd8094fe7123",
+    "content-hash": "04b17b0ac592cf629ead870449db2ac8",
     "packages": [
         {
             "name": "bower-asset/inputmask",
@@ -194,10 +194,10 @@
         },
         {
             "name": "npm-asset/dseg",
-            "version": "0.45.0",
+            "version": "0.45.1",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/dseg/-/dseg-0.45.0.tgz",
+                "url": "https://registry.npmjs.org/dseg/-/dseg-0.45.1.tgz",
                 "reference": null,
                 "shasum": null
             },

@@ -12,7 +12,7 @@
     "yiisoft/yii2": "~2.0.15",
 
     // assets
-    "npm-asset/dseg": "^0.45",
+    "npm-asset/dseg": "^0.45.1",
   },
   config: {
     "process-timeout": 1800,
